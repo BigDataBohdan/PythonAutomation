@@ -2,7 +2,7 @@ import pandas as pd
 from datetime import datetime
 from docxtpl import DocxTemplate
 import openai
-openai.api_key = "SECRET API KEY FIND IN https://platform.openai.com/account/api-keys"  
+openai.api_key = "0xIyk2eK8eMWOMtQ6u https://platform.openai.com/account/api-keys"  
 
 prompt = "Write a 450 words approximately cover letter why I want to work in Deloitte as a Senior Data Engineer without the ending of cover letter"
 model = "text-davinci-002"
